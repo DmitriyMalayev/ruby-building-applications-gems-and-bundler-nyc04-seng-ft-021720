@@ -6,4 +6,4 @@ group :development do
   gem "pry"
 end
 
-gem 'awesome_print', '~ 1.8'
+# gem 'awesome_print', '~ 1.8'
